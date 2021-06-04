@@ -1,4 +1,5 @@
 # OOS-additional-ex
+# Шаханова Дарья
 
 # Клонируем репозиторий с гита с папку SOURCES
 git clone https://github.com/parazyd/git-restrict
